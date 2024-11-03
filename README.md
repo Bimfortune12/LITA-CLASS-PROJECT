@@ -23,9 +23,9 @@ cloud; here data is stored in the ware house and the data can only be retrieved 
 ### Tools used
 
 * Microsoft Excel:
- Data Cleaning
- Data Analysis 
- Data Visualization
+  *  Data Cleaning
+  *  Data Analysis
+  * Data Visualization
 * SQL - Structured Query Language for Quering of Data
 * GitHub for Portolio Building
 * Power BI
@@ -51,7 +51,8 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 ### PIVOT TABLE:
  
 	
-![image](https://github.com/user-attachments/assets/0208e5fb-37d8-4bc1-9c31-9450cb38ef30)
+
+![image](https://github.com/user-attachments/assets/829c1fed-3293-4acf-871a-8a29d61abcef)
 
  
 ![image](https://github.com/user-attachments/assets/94c927e4-632d-41ff-aeca-ec1e9d839ac4)
@@ -64,16 +65,25 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 
 
 
-
 ## REGION BY REVENUE
 
 - FILTERED CHART FOR THE YEAR 2014
 
-- 
+
 ![image](https://github.com/user-attachments/assets/cd6ec74b-6d58-4063-8472-6486f734e166)
 
-- 
+ 
+### General Revenue 
+The graph shows a decline in revenue across some region and also an increase in some region too.North East and South West are the highest performing region while North West and NORTH Central are the lowest performing region.
+* North East: The chart shows that it's the highest revenue and strong market presence by having highest customer demand.
+* South West: This region still perform significatly but could not meet North East performance.
+* North West: This shows drop from the other region.It;s an underperforming region not like performing region
+* North Central: This region appears to have the weakest market,the lowest.It's need an improvement and market development to meet up.
 
+* The pivot table also shows the 10 Top stores by revenue other are not performing well.Also Top 5 market by revenue to the the market that is performing well in the market. in conclusion the data shows that the organisation experience it;s strongest performancein Noth East while it's gets reducing from South West,South South,South East,North West and North Central which was the lowest performing region there was low performance due to market size and customer demand.
+
+   
+  
 
 
 
