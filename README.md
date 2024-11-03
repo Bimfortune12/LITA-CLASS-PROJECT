@@ -70,6 +70,18 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 - FILTERED CHART FOR THE YEAR 2014
 
 - 
+![image](https://github.com/user-attachments/assets/cd6ec74b-6d58-4063-8472-6486f734e166)
+
+- 
+
+
+
+
+
+
+
+- 
+
 
 
 
