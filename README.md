@@ -20,6 +20,62 @@ A data can either be stored in the......
 premises; that is within the organization and anybody that needs to access the data must be within the organization.
 cloud; here data is stored in the ware house and the data can only be retrieved via the internet.
 
+### Tools used
+
+* Microsoft Excel:
+ Data Cleaning
+ Data Analysis 
+ Data Visualization
+* SQL - Structured Query Language for Quering of Data
+* GitHub for Portolio Building
+* Power BI
+
+### Data Cleaning and Preparations
+
+In the initial Phase of the Data Cleaning and Preparations, we perform the following action;
+
+* data cleaning
+* Handling missing Variable
+* Data Cleaning and Formatting
+
+### Exploratory Data Analysis
+
+EDA involved the exploring of the Data to answer some questions about the Data such as;
+
+* What is the Overall Sales Trend?
+* Which product are Top Sellers?
+* What are the products on Peak sales?
+
+### REGION BY REVENUE
+
+### PIVOT TABLE:
+ 
+	
+![image](https://github.com/user-attachments/assets/0208e5fb-37d8-4bc1-9c31-9450cb38ef30)
+
+ 
+![image](https://github.com/user-attachments/assets/94c927e4-632d-41ff-aeca-ec1e9d839ac4)
+
+
+![image](https://github.com/user-attachments/assets/b2139409-0fb1-4819-a5a3-77630a0f90e9)
+
+
+![image](https://github.com/user-attachments/assets/e5cf2a01-47c2-409c-b1c5-5af22d2e89dc)
+
+
+
+
+## REGION BY REVENUE
+
+- FILTERED CHART FOR THE YEAR 2014
+
+- 
+
+
+
+
+
+
 
 
 
