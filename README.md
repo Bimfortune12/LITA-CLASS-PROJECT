@@ -8,10 +8,11 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 There two system an organsations uses or runs:
 *Operationl System:To execute business processes and manage business processes.for example:Off the shelf Sar Oracle etc.
 *Analytic system:Evaluate business processess.For example:Self Servie Bi,Tools like Poer BI etc.
+* READ
 
 ~~~SQL
 SELECT*TABLE
-/REER/
+|HEAD| |HEAD| HEAD|
  
 
 
