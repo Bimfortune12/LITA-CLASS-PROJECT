@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/bec5cde2-e118-4ffb-a534-3afcd0210f08)## LITA_CLASS_PROJECT
+## LITA_CLASS_PROJECT
 I am currently a data analyst undergoing training with an Incubator Hub. The experience has sharpened my skills in data analysis and visualization. This is where i want to put my first project while learning the Incubator Hub.
 
 ### Project Title:SALES ANALAYSIS
@@ -199,69 +199,69 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
      * LEFT JOIN
      * RIGHT JOIN
      * FULL JOIN
- ![image](https://github.com/user-attachments/assets/15a34f90-7b67-4c6f-b561-21f4534a0674)
- ![image](https://github.com/user-attachments/assets/a5f14758-0af4-45f5-afa4-809176f34139)
- ![image](https://github.com/user-attachments/assets/bb05a00c-8197-4dec-bcdd-4c9998faa59e)
- ![image](https://github.com/user-attachments/assets/ecd32362-dcc3-4255-aae7-6cf6f5d04ed8)
- ![image](https://github.com/user-attachments/assets/9fbce9e3-65b8-464d-9760-a4dc8959adde)
- ![image](https://github.com/user-attachments/assets/d0dfcc41-7137-4916-a867-e39cbffabe0f)
+  ![image](https://github.com/user-attachments/assets/15a34f90-7b67-4c6f-b561-21f4534a0674)
+  ![image](https://github.com/user-attachments/assets/a5f14758-0af4-45f5-afa4-809176f34139)
+  ![image](https://github.com/user-attachments/assets/bb05a00c-8197-4dec-bcdd-4c9998faa59e)
+  ![image](https://github.com/user-attachments/assets/ecd32362-dcc3-4255-aae7-6cf6f5d04ed8)
+  ![image](https://github.com/user-attachments/assets/9fbce9e3-65b8-464d-9760-a4dc8959adde)
+  ![image](https://github.com/user-attachments/assets/d0dfcc41-7137-4916-a867-e39cbffabe0f)
 
-### HOW TO USE SQL CASE WHEN
-![image](https://github.com/user-attachments/assets/3ceb17f9-3e60-452c-9574-9421d02d419f)
-![image](https://github.com/user-attachments/assets/8482af23-6eae-45c7-a91a-b1373e99a286)
+ ### HOW TO USE SQL CASE WHEN
+ ![image](https://github.com/user-attachments/assets/3ceb17f9-3e60-452c-9574-9421d02d419f)
+ ![image](https://github.com/user-attachments/assets/8482af23-6eae-45c7-a91a-b1373e99a286)
 
-### AFTER IMPORTING A TABLE HOW TO RUN SOME QUERY.
+ ### AFTER IMPORTING A TABLE HOW TO RUN SOME QUERY.
  * To get the total profit of the organsaition
  * To get totalprofit for senegal one of the country
  * To get total for Nigeria in 2019
  * To get totalprofit for Hero brands
+ ![image](https://github.com/user-attachments/assets/1bf944d7-e1fd-451a-b618-33f3e13e5209)
+ ![image](https://github.com/user-attachments/assets/406e7a2b-5eef-4ec7-bc67-64afa3b136a4)
+ ![image](https://github.com/user-attachments/assets/7d555552-7eb5-4a41-bbe3-3cce5a4a3f30)
+
+ ### GitHub for Portolio BuildinG
+
+ ## Setting up a Github account for Analysis portolio building:
+  * iNTRODUCTION: Github is an invaluable tool for data analysis to effectively manage and collaborate on portolio projects.
+  * It is a cloud-based platform for version control and collaboration.
+  * Host data analysis project publicly for potential employers or client to view
+  * Demonstrate technicalskills and problem solving abilities showcase project outcome and insight
+ ## Collaboration Platform
+ Facilitate collaboration with other data analysis or developer,Receive feedback and contributions from the community contribute to open_source project.
+ ## Project Management:
+ * Github'sfreatures ( issues, pull requests,milestones to manage project task and task progress.
+ * Collaborate on project planing and execution.
+ * Github data analysis can build robust and impressive portfolos that highlight their skills experience and contributions.
+ ### How to Create a GitHub Account
+ * Step by step Guide:
+ * Visit github.com
+ * sign up for a free account
+ * choose a username and customize your profile.
+### Understanding Repositories
+* A repository is a container for the project files.
+### Creating Repository:
+* Click the "+" button
+* Choose New repositery
+* Give your repository a name and descripton
+* Initailize with receive file (optional)
+### How to Add Files to your Repository
+* Uploading Files
+* Click the Add file button
+* Choose upload files
+* Select the files you water to add
+### Creating Files
+* Click the Add file button
+* Choose Create new file
+* Enter a file name and content
+### Collaborating with other 
+* Pull Request
+* create a pull requestto suggest cahange to someone elses repository
+* Review and merge pull request issues
+* Tack bugs,tasks and feature requests
 
 
-
-
-
-
-
- 
-
-
-
-
-
-
-
-
- 
-  ## This is an example of CASE WHEN HOW TO USE IT
-   update Employee
-    set StateOfOrigin =
-    case 
-    when Staffid = 'AB200' THEN 'Delta'
-    when Staffid = 'AB212' THEN 'Lagos'
-    when Staffid = 'AB223' THEN 'Oyo'
-    when Staffid = 'AB234' THEN 'Bauchi'
-    when Staffid = 'AB240' THEN 'Port Harcourt'
-    when Staffid = 'AB249' THEN 'Lagos'
-    when Staffid = 'AB254' THEN 'Edo'
-    when Staffid = 'AB260' THEN 'Ekiti'
-    when Staffid = 'AB268' THEN 'Delta'
-    when Staffid = 'AB270' THEN 'Lagos'
-    when Staffid = 'AB278' THEN 'Kano'
-    when Staffid = 'AB281' THEN 'kano'
-    when Staffid = 'AB282' THEN 'Ekiti'
-    when Staffid = 'AB286' THEN 'Lagos'
-    when Staffid = 'AB298' THEN 'Delta'
-    when Staffid = 'AB299' THEN 'Edo'
-    when Staffid = 'AB401' THEN 'Oyo'
-    when Staffid = 'AB405' THEN 'Delta'
-    ELSE 'Unknown'
-    End
-
-  ### GitHub for Portolio Building
- 
- 
-  ### Power BI
-  * Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
+ ### Power BI
+ * Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
     to create reports and dashbords.The main components of Power BI is Power BI Desktop(for report creation).Power BI Service(for sharing and collaboration)and Power BI 
     Mobile( for viewing reports on mobile.
 
