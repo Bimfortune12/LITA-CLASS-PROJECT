@@ -145,6 +145,10 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
   Below was the query written in the class by creating an employee table using Varchr to create staffID, Second Name, Gender Using Primary by inserting into 
   eMPLOYEE(STAFFID,FIRSTNAME,SECONDNAME,GENDER,DATE OF BIRTH,HIREDDATE)How to drop table,delete SQL command,truncate sql command truncate table employee.Also create 
   another table to insert into employee tableto crate a salary table.
+  * We are taught how to import data into SQL by first of all you create a database and give it a name and right click on itthen click on task then click on import flat 
+  file if your data is on csv but if it is on excel click onimport data then click on next it will take you to location of files to imported then click on browse and 
+  choose files.
+
 
    [Uploading LITA_DB QUERY.sql…]()create database LITA_DB
 
@@ -277,10 +281,10 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
 
 ### HOW TO USE DIFFERENT TYPE OF JOIN
 
- INNER JOIN
- LEFT JOIN
- RIGHT JOIN
- FULL JOIN
+ * INNER JOIN
+ * LEFT JOIN
+ * RIGHT JOIN
+ * FULL JOIN
 
  SELECT * FROM EMPLOYEE
  SELECT * FROM SALARY
@@ -312,72 +316,78 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
 		Salary.department,
 		Salary.salary
    from employee
-  join Salary
+   join Salary
    on salary.Staffid = employee.staffid
 
-  -------left join---------------------
-      select employee.staffid, 
-         employee.firstname, 
-		employee.gender,
-		employee.hiredate,
-		employee.state_of_origin, 
+ ---- ---------left join---------------------
+      select  employee.staffid, 
+              employee.firstname, 
+	      employee.gender,
+	       employee.hiredate,
+	        employee.state_of_origin, 
 		Salary.department,
 	         Salary.salary
- from employee
-  left join Salary
-  on salary.Staffid = employee.staffid
+    from employee
+    left join Salary
+    on salary.Staffid = employee.staffid
 
- ------right join---------------
-  select employee.staffid, 
-           employee.firstname, 
-           employee.gender,
-	    employee.hiredate,
+ --------------right join---------------
+      select employee.staffid, 
+             employee.firstname, 
+             employee.gender,
+	     employee.hiredate,
 	     employee.state_of_origin, 
-	      Salary.department,
+	     Salary.department,
 		alary.salary
-  from employee
-  right join Salary
-   on salary.Staffid = employee.staffid
+   from employee
+   right join Salary
+    on salary.Staffid = employee.staffid
 
- -----full join---------------------
+ ---------------full join---------------------
 
-          Select employee.staffid, 
-              employee.firstname, 
+           Select employee.staffid, 
+                employee.firstname, 
 		employee.gender,
 		employee.hiredate,
 		employee.state_of_origin, 
 		Salary.department,
 		Salary.salary
    from employee
-  full join Salary
-   on salary.Staffid = employee.staffiD
+   full join Salary
+   o n salary.Staffid = employee.staffiD
    
   ## This is an example of CASE WHEN HOW TO USE IT
-  update Employee
-   set StateOfOrigin =
-   case 
-   when Staffid = 'AB200' THEN 'Delta'
-   when Staffid = 'AB212' THEN 'Lagos'
-   when Staffid = 'AB223' THEN 'Oyo'
-   when Staffid = 'AB234' THEN 'Bauchi'
-   when Staffid = 'AB240' THEN 'Port Harcourt'
-   when Staffid = 'AB249' THEN 'Lagos'
-   when Staffid = 'AB254' THEN 'Edo'
-   when Staffid = 'AB260' THEN 'Ekiti'
-   when Staffid = 'AB268' THEN 'Delta'
-   when Staffid = 'AB270' THEN 'Lagos'
-   when Staffid = 'AB278' THEN 'Kano'
-   when Staffid = 'AB281' THEN 'kano'
-   when Staffid = 'AB282' THEN 'Ekiti'
-   when Staffid = 'AB286' THEN 'Lagos'
-   when Staffid = 'AB298' THEN 'Delta'
-   when Staffid = 'AB299' THEN 'Edo'
-   when Staffid = 'AB401' THEN 'Oyo'
-   when Staffid = 'AB405' THEN 'Delta'
-  ELSE 'Unknown'
-  End
+   update Employee
+    set StateOfOrigin =
+    case 
+    when Staffid = 'AB200' THEN 'Delta'
+    when Staffid = 'AB212' THEN 'Lagos'
+    when Staffid = 'AB223' THEN 'Oyo'
+    when Staffid = 'AB234' THEN 'Bauchi'
+    when Staffid = 'AB240' THEN 'Port Harcourt'
+    when Staffid = 'AB249' THEN 'Lagos'
+    when Staffid = 'AB254' THEN 'Edo'
+    when Staffid = 'AB260' THEN 'Ekiti'
+    when Staffid = 'AB268' THEN 'Delta'
+    when Staffid = 'AB270' THEN 'Lagos'
+    when Staffid = 'AB278' THEN 'Kano'
+    when Staffid = 'AB281' THEN 'kano'
+    when Staffid = 'AB282' THEN 'Ekiti'
+    when Staffid = 'AB286' THEN 'Lagos'
+    when Staffid = 'AB298' THEN 'Delta'
+    when Staffid = 'AB299' THEN 'Edo'
+    when Staffid = 'AB401' THEN 'Oyo'
+    when Staffid = 'AB405' THEN 'Delta'
+    ELSE 'Unknown'
+    End
 
-
+  ### GitHub for Portolio Building
+ 
+ 
+  ### Power BI
+  * Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
+    to create reports and dashbords.The main components of Power BI is Power BI Desktop(for report creation).Power BI Service(for sharing and collaboration)and Power BI 
+    Mobile( for viewing reports on mobile.
 
 
 
