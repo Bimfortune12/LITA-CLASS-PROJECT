@@ -11,7 +11,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [Data Cleaning and Preparations](#data-cleaning-prepartions)
 
- Exploratory Data Analysis
+ [Exploratory Data Analysis](#exploratory-data)
 
  Data Visualization
 
