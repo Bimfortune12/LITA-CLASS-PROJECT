@@ -19,7 +19,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
  
  [GitHub for Portolio BuildinG](#github-for-portolio-building)
 
- Power BI
+ [Power BI](#power-bi)
 
  
 
