@@ -7,9 +7,9 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [Data Sources](#data-source)
 
- Tools used
+ [Tools used](#tools-used)
 
- Data Cleaning and Preparations
+ [Data Cleaning and Preparations](#data-cleaning-prepartions)
 
  Exploratory Data Analysis
 
