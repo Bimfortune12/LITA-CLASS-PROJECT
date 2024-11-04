@@ -152,72 +152,23 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
 
    [Uploading LITA_DB QUERY.sql…]()create database LITA_DB
 
-   CREATE TABLE Employee (
-   staffid varchar (10) not null,
-    FirstName varchar (255) NOT NULL,
-   SecondName varchar (255),
-   Gender varchar (10),
-   Date_of_Birth date,
-   HireDate datetime,
-   primary key (staffid)
-   )
+   
+   ![image](https://github.com/user-attachments/assets/7ce79203-dbce-4489-a539-934f2f965d34)
 
-   select * from Employee
 
-  insert into Employee (staffid, firstname, secondname, gender,Date_of_Birth, hiredate)
-  values ( 'AB401', 'ayan', 'olakun', 'female', '1992-08-22', '2018-02-09'),
-  ( 'AB212', 'okorie', 'mercy', 'female','1988-10-09', '2018-10-09'),
-  ( 'AB223', 'joshua', 'chukwuemeka', 'male','1980-10-09', '2022-02-09'),
-  ( 'AB234', 'sanni', 'ibrahim', 'male','1958-10-09', '2019-09-23'),
-  ( 'AB254', 'mercy', 'olanipekun', 'female','1982-10-09', '2020-02-09'),
-  ( 'AB249', 'johnson', 'mercy', 'female','1982-10-09', '2019-12-09'),
-  ( 'AB298', 'ayomide', 'halleluyah', 'female', '1982-10-09','2018-07-11'),
-  ( 'AB260', 'deborah', 'justin', 'female','1982-10-09', '2018-02-09'),
-  ( 'AB281', 'wale', 'olanipekun', 'male','1982-10-09', '2018-02-09')
-
-   -------to drop table --------
-
-     drop table employee
-
-   ----delete sql command--
-
-    delete from employee
-    where staffid  = 'ab281'
-
-  ----truncate sql command
-
-  truncate table employee
-
-   ------identity in SQL -----
-
-  CREATE TABLE PERSON (
-  personid int identity (1,1)
-  primary key not null,
-  personname varchar (255) not null,
-  age int,
-  )
-
-  insert into PERSON (personname, age)
-  values ('saidu', 45),
-  ('adebanjo', 49),
-  ('olorunda', 33),
-  ('martha', 88),
-  ('sandi', 100),
-  ('jackson', 22),
-  ('okunola', 19),
-  ('esther', 45)
-
-   select * from PERSON
+   ### HOW to DROP TABLE,DELETE SQL COMMAND,TRUNCATE SQL COMMAND
   
-   ### HOW TO USE SUM, COUNT, MAX, MIN, AVERAGE-
+  ![image](https://github.com/user-attachments/assets/cbba47a0-41a4-453f-a640-134e836d2419)
 
-  SELECT SUM(Salary) AS TOTALSALARY FROM Salary
+   ### HOW TO USE SUM, COUNT, MAX, MIN, AVERAGE AND UPDATE SALARY ACCOUNT:
+  ![image](https://github.com/user-attachments/assets/f88afe0a-dd3b-4a3e-bae2-cf7a2689d83c)
 
-  SELECT AVG(Salary) AS AVERAGESALARY FROM Salary
+   ### HOW TO UPDATE STAFF NAME AND ALSO UPDATE DEPARTMENT:
+  ![image](https://github.com/user-attachments/assets/aeb8b75c-67ea-4ca4-a3ec-a3f41f37dda4)
 
-  SELECT COUNT(Staffid) AS EmployeeCount FROM EMPLOYEE
+   ### CREATE ADDITIONAL COLUMN INTO EMPLOYEE TABLE
+  ![image](https://github.com/user-attachments/assets/2602756e-93a8-495d-baab-b200acc7be45)
 
-  SELECT COUNT(Staffid) AS NumberOfEmployee FROM Salary
 
   ### Analysis on Employee table
 
