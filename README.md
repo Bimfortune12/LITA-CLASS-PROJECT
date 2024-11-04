@@ -28,13 +28,17 @@ This data analysis project aims to collect and analyze data from various sales p
 
 #### Data Sources
 The primary Source of data used here is Data Saled.csv and this is an open source of Data or any other repository site.
+
 ### Data Set
 A data set is a collection of data points.
+
 ### Data Generation
 Data generation is important because it will determine the values that you will get from your data set. Data generated can either be ;
 Structured,Semi structured and Unstructured.
+
 ### ETL : Extracting, Transforming and Loading.
 The ETL is used for data transformation from a particular structure to data that can be analysed.
+
 ### Data Storage
 A data can either be stored in the......
 premises; that is within the organization and anybody that needs to access the data must be within the organization.
