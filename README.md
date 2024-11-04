@@ -1,4 +1,4 @@
-# LITA_CLASS_PROJECT
+![image](https://github.com/user-attachments/assets/bec5cde2-e118-4ffb-a534-3afcd0210f08)## LITA_CLASS_PROJECT
 I am currently a data analyst undergoing training with an Incubator Hub. The experience has sharpened my skills in data analysis and visualization. This is where i want to put my first project while learning the Incubator Hub.
 
 ### Project Title:SALES ANALAYSIS
@@ -160,153 +160,78 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
   
   ![image](https://github.com/user-attachments/assets/cbba47a0-41a4-453f-a640-134e836d2419)
 
-   ### HOW TO USE SUM, COUNT, MAX, MIN, AVERAGE AND UPDATE SALARY ACCOUNT:
+  ### HOW TO USE SUM, COUNT, MAX, MIN, AVERAGE AND UPDATE SALARY ACCOUNT:
   ![image](https://github.com/user-attachments/assets/f88afe0a-dd3b-4a3e-bae2-cf7a2689d83c)
 
-   ### HOW TO UPDATE STAFF NAME AND ALSO UPDATE DEPARTMENT:
+  ### HOW TO UPDATE STAFF NAME AND ALSO UPDATE DEPARTMENT:
   ![image](https://github.com/user-attachments/assets/aeb8b75c-67ea-4ca4-a3ec-a3f41f37dda4)
 
-   ### CREATE ADDITIONAL COLUMN INTO EMPLOYEE TABLE
+  ### CREATE ADDITIONAL COLUMN INTO EMPLOYEE TABLE
   ![image](https://github.com/user-attachments/assets/2602756e-93a8-495d-baab-b200acc7be45)
 
+  ### CREATE ANOTHER TABLE CALL PAYMENT TABLE
+  ![image](https://github.com/user-attachments/assets/ff109fed-c980-4d7d-97b0-792d2878c486)
 
-  ### Analysis on Employee table
-
-  select * from Employee
-
-  select count(*)  from employee 
-  where state_of_origin  = 'Kano'
-
-  select count(*)  from employee 
-  where gender  = 'male'
-
- select * from Salary
-
-  select count(*)  from Salary
-  where department  = 'Human Resources'
-
-  select top 5 * from Salary
-
-   select * from Salary
-  where salary > 700000
-
-  select Staffid, salary from Salary
-  where salary < 700000
-
-
-  select max(salary) from Salary
-
-  select min(salary) as min_salary from Salary
-
--
-  ###  HOW TO GROUP BY
-
-  SELECT COUNT(*)  FROM Payment
-  where Payment_Method = 'cASH'
-
-  select count(staffid) as StaffPerSate, state_of_origin from Employee
-  GROUP BY State_of_Origin
+  ### ANALYSIS ON EMPLOYEE TABLE
+  ![image](https://github.com/user-attachments/assets/4927f23c-c08e-47e2-b6f8-a2e6b7dfd3e2)
  
-  select count(staffid), department from Salary
-  group by department
- 
-  ### HOW TO USE HAVING
+  ###  HOW TO GROUP BY AND HAVING
+  ![image](https://github.com/user-attachments/assets/9bef795e-eb31-465b-b705-956887e1c4c2)
 
-  select count(staffid) as StaffPerSate, state_of_origin 
-  from Employee
-  GROUP BY State_of_Origin
-  HAVING COUNT(staffid) >=3
- 
- ### HOW TO USE ORDER BY
- select count(staffid) as StaffPerSate, state_of_origin 
- from Employee
- GROUP BY State_of_Origin
- order by  count(staffid) desc
- 
- ### HOW TO SORT BY COLUMN INDEX
- select count(staffid) as StaffPerSate, state_of_origin 
- from Employee
- GROUP BY State_of_Origin
- order by  1 desc
+  ### HOW TO ORDER BY AND SORT BY COLUMN INDEX
+  ![image](https://github.com/user-attachments/assets/79ce1ac9-db1d-46f2-99e8-f6de3eb8b06e)
+  
+  ### HOW TO COMPARISON/RELATIONAL OPERATOR
+  ![image](https://github.com/user-attachments/assets/47bdac99-aea9-4616-834f-792cac790d50)
+
+  ### HOW TO USE RANGE OPERATOR
+  ![image](https://github.com/user-attachments/assets/6afda82b-6492-42b8-9216-c03042ceefb8)
+
+  ### HOW TO USE LIST OPERATOR
+  ![image](https://github.com/user-attachments/assets/fffb5500-5fb9-4f83-83b4-8d49203db403)
+  
+  ### HOW TO USELOGICAL OPERATOR
+  ![image](https://github.com/user-attachments/assets/5bb5833f-f034-442c-ab84-dfdd39ab027a)
+
+  ### --------------JOIN-----------------------
+  *There are different tye of JOIN   
+     * INNER JOIN
+     * LEFT JOIN
+     * RIGHT JOIN
+     * FULL JOIN
+ ![image](https://github.com/user-attachments/assets/15a34f90-7b67-4c6f-b561-21f4534a0674)
+ ![image](https://github.com/user-attachments/assets/a5f14758-0af4-45f5-afa4-809176f34139)
+ ![image](https://github.com/user-attachments/assets/bb05a00c-8197-4dec-bcdd-4c9998faa59e)
+ ![image](https://github.com/user-attachments/assets/ecd32362-dcc3-4255-aae7-6cf6f5d04ed8)
+ ![image](https://github.com/user-attachments/assets/9fbce9e3-65b8-464d-9760-a4dc8959adde)
+ ![image](https://github.com/user-attachments/assets/d0dfcc41-7137-4916-a867-e39cbffabe0f)
+
+### HOW TO USE SQL CASE WHEN
+![image](https://github.com/user-attachments/assets/3ceb17f9-3e60-452c-9574-9421d02d419f)
+![image](https://github.com/user-attachments/assets/8482af23-6eae-45c7-a91a-b1373e99a286)
+
+### AFTER IMPORTING A TABLE HOW TO RUN SOME QUERY.
+ * To get the total profit of the organsaition
+ * To get totalprofit for senegal one of the country
+ * To get total for Nigeria in 2019
+ * To get totalprofit for Hero brands
+
+
+
+
+
+
+
  
 
-### HOW TO USE DIFFERENT TYPE OF JOIN
 
- * INNER JOIN
- * LEFT JOIN
- * RIGHT JOIN
- * FULL JOIN
 
- SELECT * FROM EMPLOYEE
- SELECT * FROM SALARY
- SELECT * FROM PAYMENT 
 
- -----JOIN 2 TABLES----------------
 
-  --EMPLOYEE  =  7 COLUMNS ( STAFFID, FIRSTNAME, GENDER, HIREDATE, STATE)
-  --SALARY  = 6 COLUMNS (DEPARTMENT, SALARY)
 
-     select     employee.staffid, 
-                employee.firstname, 
-		employee.gender,
-		employee.hiredate,
-		employee.state_of_origin, 
-		Salary.department,
-		Salary.salary
-   from employee
-   join Salary
-   on salary.Staffid = employee.staffid
 
--------inner join----------------
 
-    select   employee.staffid, 
-                employee.firstname,
-		employee.gender,
-		employee.hiredate,
-		employee.state_of_origin,
-		Salary.department,
-		Salary.salary
-   from employee
-   join Salary
-   on salary.Staffid = employee.staffid
-
- ---- ---------left join---------------------
-      select  employee.staffid, 
-              employee.firstname, 
-	      employee.gender,
-	       employee.hiredate,
-	        employee.state_of_origin, 
-		Salary.department,
-	         Salary.salary
-    from employee
-    left join Salary
-    on salary.Staffid = employee.staffid
-
- --------------right join---------------
-      select employee.staffid, 
-             employee.firstname, 
-             employee.gender,
-	     employee.hiredate,
-	     employee.state_of_origin, 
-	     Salary.department,
-		alary.salary
-   from employee
-   right join Salary
-    on salary.Staffid = employee.staffid
-
- ---------------full join---------------------
-
-           Select employee.staffid, 
-                employee.firstname, 
-		employee.gender,
-		employee.hiredate,
-		employee.state_of_origin, 
-		Salary.department,
-		Salary.salary
-   from employee
-   full join Salary
-   o n salary.Staffid = employee.staffiD
-   
+ 
   ## This is an example of CASE WHEN HOW TO USE IT
    update Employee
     set StateOfOrigin =
