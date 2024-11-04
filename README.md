@@ -15,7 +15,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [Data Visualization](#data-visualization)
 
- SQL- Structured Query Language for Quering of Data 
+ [SQL-Structured Query Language](#sql-structured query language)
  
  GitHub for Portolio BuildinG
 
@@ -105,7 +105,9 @@ The graph shows a decline in revenue across some region and also an increase in 
   East,North West and North Central which was the lowest performing region there was low performance due to market size and customer demand.
 
 
-### SQL- Structured Query Language for Quering of Data: 
+### SQL-Structured Query Language 
+
+SQL Structured Query for Quering of Data: 
  * SQL(Structured Ouery Language) it is used for storing and managing data in Relational Database management system(RDBMS)
  * It's a standard Language for Relational Database System,it enabless user to relate databases and table.
  * SQL is a programming Language and aquery language.
