@@ -260,10 +260,42 @@ SQL follows the following rules:This is not case sensitive.Generally keywords of
 * Tack bugs,tasks and feature requests
 
 
- ### Power BI
- * Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
-    to create reports and dashbords.The main components of Power BI is Power BI Desktop(for report creation).Power BI Service(for sharing and collaboration)and Power BI 
-    Mobile( for viewing reports on mobile.
+### Power BI
+Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
+to create reports and dashbords.The main components of Power BI is Power BI Desktop(for report creation).Power BI Service(for sharing and collaboration)and Power BI 
+Mobile( for viewing reports on mobile.
+* A data model in Power BI is a structured collection of date that allows users to define relationshiops between different tables and create unified view of data.
+* The difference betwen a calculated column and a measure in Power BI: A Calculated column is computed row by row when the data is loaded while a  measure is a dynamic 
+  calculation performed on aggregated data during report interactions
+* DAX (DATA ANALYSIS EXPRESSIONS) is a formula language used in power bi for creating customer calculations in calculated columns and measures
+### How to Create a Dashboard in Power Bi
+* Dashboard are created by pinning visuals from reports users and select visuals from different reports and arrange them on single canvas for monitoring key metrics.
+### PRESENTATION OF REPORT THAT WAS DONE IN LITA CLASS
+* Below presentation was done in class by importing a data into the Power Bi to be ableofers various visualization including bar charts, cards, matrices, tables, custom 
+ visuals from the marketplace
+* Gatering requirements,identifying key metrics desiging a data model and then creating visuals that provide insights into sales performance trends and forecasts
+
+  ![image](https://github.com/user-attachments/assets/5698954f-b662-4e6e-b74f-41744926ea3c)
+  
+* The above report shows the total number of employee
+* Total number of Attrition
+* Total numberof current employee that was left in the organization
+* The average Age in the organization
+* Attrition count by Department
+* Attrition count by Educational Field
+* Attrition count by Gender
+* Attrition by Age Group
+* Attrition of Under 25
+* Attrition of 25-34
+* Attrition of 35-44
+* Attrition of 45-54
+* Attrition OF over
+* Also the user of SLICER to be able to know the changes in all the department
+
+
+    
+
+
 
 
 
