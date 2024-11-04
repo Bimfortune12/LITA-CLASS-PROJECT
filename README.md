@@ -278,15 +278,18 @@ SQL Structured Query for Quering of Data:
 * Choose New repositery
 * Give your repository a name and descripton
 * Initailize with receive file (optional)
+
 ### How to Add Files to your Repository
 * Uploading Files
 * Click the Add file button
 * Choose upload files
 * Select the files you water to add
+
 ### Creating Files
 * Click the Add file button
 * Choose Create new file
 * Enter a file name and content
+
 ### Collaborating with other 
 * Pull Request
 * create a pull requestto suggest cahange to someone elses repository
@@ -302,8 +305,10 @@ Mobile( for viewing reports on mobile.
 * The difference betwen a calculated column and a measure in Power BI: A Calculated column is computed row by row when the data is loaded while a  measure is a dynamic 
   calculation performed on aggregated data during report interactions
 * DAX (DATA ANALYSIS EXPRESSIONS) is a formula language used in power bi for creating customer calculations in calculated columns and measures
+
 ### How to Create a Dashboard in Power Bi
 * Dashboard are created by pinning visuals from reports users and select visuals from different reports and arrange them on single canvas for monitoring key metrics.
+
 ### PRESENTATION OF REPORT THAT WAS DONE IN LITA CLASS
 * Below presentation was done in class by importing a data into the Power Bi to be ableofers various visualization including bar charts, cards, matrices, tables, custom 
  visuals from the marketplace
@@ -325,6 +330,7 @@ Mobile( for viewing reports on mobile.
 * Attrition of 45-54
 * Attrition OF over
 * Also the user of SLICER to be able to know the changes in all the department.
+
 
 ### ANOTHER TABLE WAS CREATED 
 The table below shows a decline in revenue across some region and also an increase in some region too.North East and South West are the highest performing region while North West and NORTH Central are the lowest performing region.
