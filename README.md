@@ -13,7 +13,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [Exploratory Data Analysis](#exploratory-data)
 
- Data Visualization
+ [Data Visualization
 
  SQL- Structured Query Language for Quering of Data 
  
