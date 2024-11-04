@@ -17,7 +17,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [SQL-Structured Query Language](#sql-structured-query-language)
  
- GitHub for Portolio BuildinG
+ [GitHub for Portolio BuildinG](#github-for-portolio-building)
 
  Power BI
 
