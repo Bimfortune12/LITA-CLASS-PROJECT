@@ -78,7 +78,6 @@ The graph shows a decline in revenue across some region and also an increase in 
 * South West: This region still perform significatly but could not meet North East performance.
 * North West: This shows drop from the other region.It;s an underperforming region not like performing region
 * North Central: This region appears to have the weakest market,the lowest.It's need an improvement and market development to meet up.
-
 * The pivot table also shows the 10 Top stores by revenue other are not performing well.Also Top 5 market by revenue to the the market that is performing well in the market. in conclusion the data shows that the organisation experience it;s strongest performancein Noth East while it's gets reducing from South West,South South,South East,North West and North Central which was the lowest performing region there was low performance due to market size and customer demand.
 
 
@@ -290,7 +289,30 @@ Mobile( for viewing reports on mobile.
 * Attrition of 35-44
 * Attrition of 45-54
 * Attrition OF over
-* Also the user of SLICER to be able to know the changes in all the department
+* Also the user of SLICER to be able to know the changes in all the department.
+
+### ANOTHER TABLE WAS CREATED 
+The table below shows a decline in revenue across some region and also an increase in some region too.North East and South West are the highest performing region while North West and NORTH Central are the lowest performing region.
+* North East: The chart shows that it's the highest revenue and strong market presence by having highest customer demand.
+* South West: This region still perform significatly but could not meet North East performance.
+* North West: This shows drop from the other region.It;s an underperforming region not like performing region
+* North Central: This region appears to have the weakest market,the lowest.It's need an improvement and market development to meet up.
+* The average revene of the region.
+* Region by sum of Units sold.
+* Region by Market and Revenue.
+* Region by High,Low,Medium and Revenue
+* Region by Market,Unit sold and Sum of Revenue. In conclusion we also used calculated column,measure and conditional column.
+
+
+![image](https://github.com/user-attachments/assets/b1b65806-94c9-4225-a252-289bb1a7308c)
+
+
+
+
+
+  
+
+
 
 
     
