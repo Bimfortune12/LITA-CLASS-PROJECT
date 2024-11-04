@@ -15,7 +15,7 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
 
  [Data Visualization](#data-visualization)
 
- [SQL-Structured Query Language](#sql-structured query language)
+ [SQL-Structured Query Language](#sql-structured-query-language)
  
  GitHub for Portolio BuildinG
 
