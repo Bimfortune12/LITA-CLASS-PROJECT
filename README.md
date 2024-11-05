@@ -24,10 +24,10 @@ I am currently a data analyst undergoing training with an Incubator Hub. The exp
  
 
 ### Project Overview
-This data analysis project aims to collect and analyze data from various sales performance of the project by analysing the various ways from data received to enchance insight to make reasonable decision and provide insights that will inform business strategies, enhance operational efficiency and analytic efficiency that will execute business processess,manage business processess to improve customer satisfaction by evaluate business processess which will enchaces insights gotten to know different transaction categories,business strategies and to know all performance from data to  collects and analyzes relevant data to provide the insights gotten into sales trends.
+This data analysis project aims to collect and analyze data from various sales performance of the project by analysing the various ways from data received to enchance insight to make reasonable decision and provide insights that will inform business strategies, enhance operational efficiency that will execute business processess,manage business processess to improve customer satisfaction. By evaluate business processess which will enchaces insights gotten to know different transaction categories,business strategies and to know all performance from  relevant data.
 
 #### Data Sources
-The primary Source of data used here is Data Saled.csv and this is an open source of Data or any other repository site.
+The primary Source of data used here is Data, CSV and this is an open source of Data .
 
 ### Data Set
 A data set is a collection of data points.
@@ -40,8 +40,7 @@ Structured,Semi structured and Unstructured.
 The ETL is used for data transformation from a particular structure to data that can be analysed.
 
 ### Data Storage
-A data can either be stored in the......
-premises; that is within the organization and anybody that needs to access the data must be within the organization.
+A data can either be stored in the premises; that is within the organization and anybody that needs to access the data must be within the organization.
 cloud; here data is stored in the ware house and the data can only be retrieved via the internet.
 
 ### Tools used
@@ -50,8 +49,11 @@ cloud; here data is stored in the ware house and the data can only be retrieved 
   * Data Cleaning
   * Data Analysis
   * Data Visualization
+    
 * SQL - Structured Query Language for Quering of Data
+
 * GitHub for Portolio Building
+ 
 * Power BI
 
 ### Data Cleaning and Preparations
@@ -102,10 +104,11 @@ EDA involved the exploring of the Data to answer some questions about the Data s
 The graph shows a decline in revenue across some region and also an increase in some region too.North East and South West are the highest performing region while North West and NORTH Central are the lowest performing region.
 * North East: The chart shows that it's the highest revenue and strong market presence by having highest customer demand.
 * South West: This region still perform significatly but could not meet North East performance.
-* North West: This shows drop from the other region.It;s an underperforming region not like performing region
+* North West: This shows drop from the other region.It's an underperforming region not like performing region
 * North Central: This region appears to have the weakest market,the lowest.It's need an improvement and market development to meet up.
+
 * The pivot table also shows the 10 Top stores by revenue other are not performing well.Also Top 5 market by revenue to the the market that is performing well in the 
-  market. in conclusion the data shows that the organisation experience it;s strongest performancein Noth East while it's gets reducing from South West,South South,South 
+  market. In conclusion the data shows that the organisation experience it's strongest performance in North East while it's gets reducing from South West,South South,South 
   East,North West and North Central which was the lowest performing region there was low performance due to market size and customer demand.
 
 
@@ -117,9 +120,10 @@ SQL Structured Query for Quering of Data:
  * SQL is a programming Language and aquery language.
  * ALL the RDBMS like MYSQL,POSTGRE SQL.ORACLE, MS ACCESS and SQL SERVER use SQL as their standard database language
  * SQL allows users to query database in a number of ways using English like statement.
- * SQLfollows the following rules:This is not case sensitive.Generally keywords of SQL are written in uppercase.
+ * SQL follows the following rules:This is not case sensitive.Generally keywords of SQL are written in uppercase.
  * Using the SQL staetement,you can perform most of the actions in database.
- * What is the Database: A database is an organised collection of data that is stored and managed in structured way to allow for easy access,
+  
+  * What is the Database: A database is an organised collection of data that is stored and managed in structured way to allow for easy access,
   retrieval and manipulation.Database store data in structured format using table which composed of rows and columns.
 
  ### Basic SQL COMMAND
@@ -264,22 +268,27 @@ SQL Structured Query for Quering of Data:
   * It is a cloud-based platform for version control and collaboration.
   * Host data analysis project publicly for potential employers or client to view
   * Demonstrate technicalskills and problem solving abilities showcase project outcome and insight
+
  ## Collaboration Platform
  Facilitate collaboration with other data analysis or developer,Receive feedback and contributions from the community contribute to open_source project.
+
  ## Project Management:
  * Github'sfreatures ( issues, pull requests,milestones to manage project task and task progress.
  * Collaborate on project planing and execution.
  * Github data analysis can build robust and impressive portfolos that highlight their skills experience and contributions.
+ 
  ### How to Create a GitHub Account
  * Step by step Guide:
  * Visit github.com
  * sign up for a free account
  * choose a username and customize your profile.
+
 ### Understanding Repositories
 * A repository is a container for the project files.
+
 ### Creating Repository:
 * Click the "+" button
-* Choose New repositery
+* Choose New repository
 * Give your repository a name and descripton
 * Initailize with receive file (optional)
 
@@ -304,7 +313,8 @@ SQL Structured Query for Quering of Data:
 ### Power BI
 Power BI is a business analytics tool by misrosoft that provides interactive visualization and business intelligence capabilities with a simple interface for end users 
 to create reports and dashbords.The main components of Power BI is Power BI Desktop(for report creation).Power BI Service(for sharing and collaboration)and Power BI 
-Mobile( for viewing reports on mobile.
+Mobile( for viewing reports on mobile)
+
 * A data model in Power BI is a structured collection of date that allows users to define relationshiops between different tables and create unified view of data.
 * The difference betwen a calculated column and a measure in Power BI: A Calculated column is computed row by row when the data is loaded while a  measure is a dynamic 
   calculation performed on aggregated data during report interactions
@@ -314,9 +324,9 @@ Mobile( for viewing reports on mobile.
 * Dashboard are created by pinning visuals from reports users and select visuals from different reports and arrange them on single canvas for monitoring key metrics.
 
 ### PRESENTATION OF REPORT THAT WAS DONE IN LITA CLASS
-* Below presentation was done in class by importing a data into the Power Bi to be ableofers various visualization including bar charts, cards, matrices, tables, custom 
+* Below presentation was done in class by importing a data into the Power Bi to offers various visualization including bar charts, cards, matrices, tables, custom 
  visuals from the marketplace
-* Gatering requirements,identifying key metrics desiging a data model and then creating visuals that provide insights into sales performance trends and forecasts
+* Gatering requirements,identifying key metrics designing a data model and then creating visuals that provide insights into sales performance trends and forecasts
 
   ![image](https://github.com/user-attachments/assets/5698954f-b662-4e6e-b74f-41744926ea3c)
   
@@ -340,7 +350,7 @@ Mobile( for viewing reports on mobile.
 The table below shows a decline in revenue across some region and also an increase in some region too.North East and South West are the highest performing region while North West and NORTH Central are the lowest performing region.
 * North East: The chart shows that it's the highest revenue and strong market presence by having highest customer demand.
 * South West: This region still perform significatly but could not meet North East performance.
-* North West: This shows drop from the other region.It;s an underperforming region not like performing region
+* North West: This shows drop from the other region.It's an underperforming region not like performing region
 * North Central: This region appears to have the weakest market,the lowest.It's need an improvement and market development to meet up.
 * The average revene of the region.
 * Region by sum of Units sold.
